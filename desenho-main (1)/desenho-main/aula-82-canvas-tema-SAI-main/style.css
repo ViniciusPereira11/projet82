@@ -1,0 +1,46 @@
+canvas{
+    border: solid 3px black;
+    background:white;
+}
+body{
+    background-image: url("art.jpg");
+    background-size: 100%;
+}
+h1{
+    color:black;
+    font-size: 30px;
+    font-family: Arial;
+    background:white;
+    border-radius: 30px;
+    width:33%;
+    padding:10px;
+    border:solid black 3px;
+}
+
+button{
+    border-radius:30px;
+    padding:25px;
+    font-weight: 500;
+    font-size: 20px;
+}
+input{
+    border-radius:30px;
+    padding:25px;
+    font-weight: 500;
+    font-size: 20px;
+    width:12%;
+}
+#botaoDesenhar{
+    background-color: lime;
+
+}
+
+#botaoLimpar{
+    background-color: tomato;
+}
+
+img{
+    position:absolute;
+    right:30px;
+    bottom:20px;
+}
